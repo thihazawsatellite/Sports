@@ -1,231 +1,116 @@
-#EXTM3U
-#EXTINF:-1
 [{"name":"Notice","link":"https://i.imgur.com/WetnwRi.jpg","logo":"https://i.imgur.com/WetnwRi.jpg","referer":"https://live-streamfootball.com/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"NFO 🆚 TOT","link":"https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F2%2Findex.m3u8&token=4fff3b8170510c5b7cd3a5488d022b3212fb220e&is_vip=false&verify=1702663200-dJWXRfiL8CP9mOsT1F4tY1FQyZGBRvqvYJrxeFaOBlc%3D","logo":"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png","referer":"https://live-streamfootball.com/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"GEN 🆚 JUV","link":"https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F25%2Findex.m3u8&token=4fff3b8170510c5b7cd3a5488d022b3212fb220e&is_vip=false&verify=1702663200-dJWXRfiL8CP9mOsT1F4tY1FQyZGBRvqvYJrxeFaOBlc%3D","logo":"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png","referer":"https://live-streamfootball.com/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"ZIM 🆚 IRE","link":"https://mprod-cdn.toffeelive.com/live/match-3/index.m3u8","logo":"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png","cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1702715855:KeyName=prod_live_events:Signature=kMi4crJiiKxq7nGFWV3Om_dMNYlKskfP2rQ4JSYr2D8B7JJLfPNySraUbEMGTne66zzK8s7goD8JN6zrzcNvDg"},
-#EXTINF:-1
 {"name":"Live","link":"https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F12%2Findex.m3u8&token=4fff3b8170510c5b7cd3a5488d022b3212fb220e&is_vip=false&verify=1702663200-dJWXRfiL8CP9mOsT1F4tY1FQyZGBRvqvYJrxeFaOBlc%3D","logo":"https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png","referer":"https://live-streamfootball.com/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"beIN Sports 1","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61168.m3u8","logo":"https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/5exn7j1631279352.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"beIN Sports 2","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8","logo":"https:\/\/seeklogo.com\/images\/B\/bein-sports-2-logo-56F85DDE25-seeklogo.com.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"beIN Sports 3","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8","logo":"https:\/\/seeklogo.com\/images\/B\/bein-sports-3-logo-42227D7D66-seeklogo.com.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"beIN Sports 4","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQjPd4bwB7TW5HZZBGAmcV6Mz2uVc4DUyTqjg&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"beIN Sports 5","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQHA2p2mJ2dkA_-7-w2JueKVgmI7PxzewuxZg&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"beIN Sports 6","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTrZkq4NQAbtRIxv4oa-XT4VJ3F6ckyRQzjEg&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"beIN Sports 7","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium97\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQc4rjD1o12vLUXj-JZpQEr-93h3VyCcQqsFQ&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"beIN Sports 8","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium98\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/assets.bein.com\/mena\/sites\/3\/2023\/09\/logos-_beINSPORTS8.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Fifa Plus","link":"https:\/\/i.mjh.nz\/SamsungTVPlus\/GBBD1100008YW.m3u8","logo":"https:\/\/www.cabletv.com\/app\/uploads\/fifa-plus-logo-small.png"},
-#EXTINF:-1
 {"name":"Fifa Plus","link":"https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8","logo":"https:\/\/www.cabletv.com\/app\/uploads\/fifa-plus-logo-small.png"},
-#EXTINF:-1
 {"name":"Fifa Plus","link":"https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8","logo":"https:\/\/www.cabletv.com\/app\/uploads\/fifa-plus-logo-small.png"},
-#EXTINF:-1
 {"name":"Fifa Plus","link":"https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8","logo":"https:\/\/www.cabletv.com\/app\/uploads\/fifa-plus-logo-small.png"},
-#EXTINF:-1
 {"name":"Sportv","link":"https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/vintequatrohrs2\/playlist.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ4hkU20hCa4zm1D6QhOXzbP8Muxw8YARIG0Q&usqp=CAU","referer":"https:\/\/futebolplayhd.com/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Sportv 2","link":"https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/sportv224ha\/playlist.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQEMDERRTRWwNNDwhwCyiiz9yNeklRS5Bpl6g&usqp=CAU","referer":"https:\/\/futebolplayhd.com/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"ESPN","link":"https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/vintequatrohrs5\/playlist.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSbzCgrCInyYxx6_Wwj-ldU2Cwm9C-m6LApOQ&usqp=CAU","referer":"https:\/\/futebolplayhd.com/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"ESPN 2","link":"https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/esportes8\/playlist.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQrcZC751CM8FzhluTURvOEVEHRQK2pm4t13w&usqp=CAU","referer":"https:\/\/futebolplayhd.com/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"ESPN 4","link":"https:\/\/newedge.eu-central-1.edge.mycdn.live\/live\/vintequatrohrs3\/playlist.m3u8","logo":"https:\/\/assets-global.website-files.com\/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4[2].png","referer":"https:\/\/futebolplayhd.com/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Astro Cricket","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium370\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/b7\/Astro_Cricket.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"FOX Cricket","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium369\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Willow Cricket","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium346\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/www.dishpromotions.com\/wp-content\/uploads\/WLLOW-logo.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Willow Xtra","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium598\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/sc.dish.com\/shared\/images\/station-logos\/WLXTR.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"T Sports","link":"http:\/\/103.141.2.37:25461\/live\/web\/web\/588.m3u8","logo":"https:\/\/tsports.com\/img\/logo\/tsports-1200x630px.png"},
-#EXTINF:-1
 {"name":"T Sports Alt","link":"http:\/\/113.212.111.246:8080\/hls\/col12.m3u8","logo":"https:\/\/tsports.com\/img\/logo\/tsports-1200x630px.png"},
-#EXTINF:-1
 {"name":"T Sports Alt","link":"http:\/\/103.109.56.116\/live\/skyfeed1005\/index.m3u8","logo":"https:\/\/tsports.com\/img\/logo\/tsports-1200x630px.png"},
-#EXTINF:-1
 {"name":"GTV","link":"http://103.141.2.37:25461/live/web/web/592.m3u8","logo":"https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png"},
-#EXTINF:-1
 {"name":"GTV","link":"https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8","logo":"https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png"},
-#EXTINF:-1
 {"name":"GTV","link":"http://103.109.56.116/live/skyfeed1006/index.m3u8","logo":"https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png"},
-#EXTINF:-1
 {"name":"GTV","link":"https://cdn8.aliflailabd.com/GAZI/tracks-v2a1/mono.m3u8","logo":"https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png"},
-#EXTINF:-1
 {"name":"Green TV","link":"https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/chunks.m3u8","logo":"https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png"},
-#EXTINF:-1
 {"name":"Discovery HD","link":"http://103.141.2.37:25461/live/web/web/567.m3u8","logo":"https://i.ibb.co/th4yLpg/discovery.png"},
-#EXTINF:-1
 {"name":"Discovery HD","link":"https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8","logo":"https://i.ibb.co/th4yLpg/discovery.png"},
-#EXTINF:-1
 {"name":"PTV Sports","link":"https://ddy5.hlsjs.ru/ddy5/premium450/tracks-v1a1/mono.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkywZN6_Tc3VuvE4JCsLOqbqwBg3ywsJ1BOw&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Star Sports 1","link":"https://cdn8.aliflailabd.com/star-sports-1/tracks-v1a1/mono.m3u8","logo":"https://img.viewcineplex.com/images/starsports1.png"},
-#EXTINF:-1
 {"name":"Star Sports 1","link":"http://103.141.2.37:25461/live/web/web/580.m3u8","logo":"https://img.viewcineplex.com/images/starsports1.png"},
-#EXTINF:-1
 {"name":"Star Sports 1","link":"http://103.109.56.116/live/skyfeed1002/index.m3u8","logo":"https://img.viewcineplex.com/images/starsports1.png"},
-#EXTINF:-1
 {"name":"Star Sports 2","link":"http://103.109.56.116/live/skyfeed1003/index.m3u8","logo":"https://img.viewcineplex.com/images/starsports2hd.png"},
-#EXTINF:-1
 {"name":"Star Sports 3","link":"http://103.141.2.37:25461/live/web/web/578.m3u8","logo":"https://img.viewcineplex.com/images/starsports3.png"},
-#EXTINF:-1
 {"name":"Star Sports SL 1","link":"http://103.141.2.37:25461/live/web/web/579.m3u8","logo":"http://tv4.hoichoi24.com/assets/images/StarSports Select HD1667750883.png"},
-#EXTINF:-1
 {"name":"Star Sports SL 2","link":"http://103.141.2.37:25461/live/web/web/583.m3u8","logo":"http://tv4.hoichoi24.com/assets/images/Star Sports Select 21667750897.png"},
-#EXTINF:-1
 {"name":"Al Kass 1","link":"https:\/\/liveakgr.alkassdigital.net\/hls\/live\/2097037\/Alkass1laq2a\/master.m3u8","logo":"https:\/\/cne-eg.com\/uploads\/logos\/20183142627377.png"},
-#EXTINF:-1
 {"name":"Al Kass 2","link":"https:\/\/liveakgr.alkassdigital.net\/hls\/live\/2097037\/Alkass2laqc\/master.m3u8","logo":"https:\/\/www.cne-eg.com\/uploads\/logos\/20183142948397.png"},
-#EXTINF:-1
 {"name":"Al Kass 3","link":"https:\/\/liveakgr.alkassdigital.net\/hls\/live\/2097037\/Alkass3laqahgy\/master.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRKIuMa1zJnQSfn_xnagVd-uAIIyrXWTkHyGw&usqp=CAU"},
-#EXTINF:-1
 {"name":"Al Kass 4","link":"https:\/\/liveak.alkassdigital.net\/livehttporigin\/smil:YWxrYXNh2.smil\/playlist.m3u8","logo":"https:\/\/www.cne-eg.com\/uploads\/logos\/20183142520385.png"},
-#EXTINF:-1
 {"name":"Sony Ten 1","link":"https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-1-live","logo":"http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png"},
-#EXTINF:-1
 {"name":"Sony Ten 2","link":"https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-2-live","logo":"http://tv4.hoichoi24.com/assets/images/Sony TEN 21667728105.png"},
-#EXTINF:-1
 {"name":"Sony Ten 3","link":"https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-3-live","logo":"http://tv4.hoichoi24.com/assets/images/Sony TEN 31667728117.png"},
-#EXTINF:-1
 {"name":"Sony Ten 5","link":"https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-5","logo":"http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png"},
-#EXTINF:-1
 {"name":"Sports18","link":"https:\/\/prod-ent-live-gm.jiocinema.com\/bpk-tv\/Sports18_1_HD_voot_MOB\/Fallback\/index.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/0\/07\/Sports18_official_logo.png"},
-#EXTINF:-1
 {"name":"Sports18 Khel","link":"https:\/\/prod-ent-live-gm.jiocinema.com\/bpk-tv\/Sports18_Khel_voot_MOB\/Fallback\/index.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQYbuuZQ5zlkKglnLKA1CWhlqbHIeE1EzNaog&usqp=CAU"},
-#EXTINF:-1
 {"name":"Arena Sports 1","link":"https:\/\/ddh1.webhd.ru\/ddh1\/premium432\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTpYEe2Z5RfNzmgroT7Xn78q4WiC79FZfW4IA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Arena Sports 2","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium430\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTkvJmZ8YPTc6op8fe8uJfp9Q4_ieOU5w4xdQ&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Arens Sports 3","link":"https:\/\/ddy4.webhd.ru\/ddy4\/premium431\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR4AyveF4jgQarKTYv6Xui1dCSZoZXOqSkmMA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Arena Sports 4","link":"https:\/\/ddy4.webhd.ru\/ddy4\/premium581\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSTcuVLZw6lLc0k4BBioI1TWP1FUgURYYcAoA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Sky Sport 1 NZ","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium588\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTsDPhtO02g8IlwMJBgw4x0t3jHmTKU334KTw&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Sky Sport 2 NZ","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium589\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTsDPhtO02g8IlwMJBgw4x0t3jHmTKU334KTw&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Sky Sport 3 NZ","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium590\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTsDPhtO02g8IlwMJBgw4x0t3jHmTKU334KTw&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Sky Sport 4 NZ","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium591\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTsDPhtO02g8IlwMJBgw4x0t3jHmTKU334KTw&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Sky Sport 5 NZ","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium592\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTsDPhtO02g8IlwMJBgw4x0t3jHmTKU334KTw&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Sky Sport SL NZ","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium587\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/en\/thumb\/c\/c1\/Sky_Sport_NZ_2019.svg\/2560px-Sky_Sport_NZ_2019.svg.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"AD Sports 1","link":"https:\/\/admdn1.cdn.mangomolo.com\/adsports1\/smil:adsports1.stream.smil\/chunklist_b1800000_t64NzIwcA==.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQqhmyVdOHZQKogFvYPJq1CebsJRz5Q_QPWqw&usqp=CAU"},
-#EXTINF:-1
 {"name":"AD Sports 2","link":"https:\/\/admdn5.cdn.mangomolo.com\/adsports2\/smil:adsports2.stream.smil\/chunklist_b1800000_t64NzIwcA==.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQqhmyVdOHZQKogFvYPJq1CebsJRz5Q_QPWqw&usqp=CAU"},
-#EXTINF:-1
 {"name":"SSC Extra 1","link":"https:\/\/ddy2.webhd.ru\/ddy2\/premium2\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTK69DuDFwu_aeqOBhrZp4_7XZXIkT-HdnlbQ&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"DAZN 1","link":"https:\/\/ddy4.webhd.ru\/ddy4\/premium445\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/a2\/DAZN_1_Logo.svg\/2560px-DAZN_1_Logo.svg.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"DAZN 2","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium446\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/76\/DAZN_2.svg\/2560px-DAZN_2.svg.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"DAZN 3","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium447\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ8ojmfP-QcgDW4aXcZ6HncvEs6eSIIZ1CbEw&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"DAZN 4","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium448\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTBaFfxKdXVDRK74hxuYIZkf6GwOHtUYwmCAw&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Zona DAZN","link":"https:\/\/ddy2.webhd.ru\/ddy2\/premium877\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/03\/Logo_del_canale_televisivo_Zona_DAZN.svg\/1200px-Logo_del_canale_televisivo_Zona_DAZN.svg.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"DAZN 1 DE","link":"https:\/\/ddy4.webhd.ru\/ddy4\/premium426\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/06\/DAZN_Logo_Master.svg\/1200px-DAZN_Logo_Master.svg.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"DAZN 2 DE","link":"https:\/\/ddy4.webhd.ru\/ddy4\/premium427\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/06\/DAZN_Logo_Master.svg\/1200px-DAZN_Logo_Master.svg.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Football","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium56\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/7lxofw1656964140.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Cricket","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium368\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/srtijz1643382350.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Variety 1","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium416\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/0lwdq31638048788.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Variety 2 ","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium417\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/9vnt801638048828.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Variety 3 ","link":"https:\/\/ddh1.webhd.ru\/ddh1\/premium418\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/mh03f41638048848.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Variety 4 ","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium419\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/jz5jpt1638048871.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Grandstand","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium412\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/aitip41642604897.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport PSL","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium413\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/s6b35j1629404341.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport PremierLeague","link":"https:\/\/ddh1.webhd.ru\/ddh1\/premium414\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQnb3guz2RupUT2O6f-mlun9OXn50PNLlNY2w&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Laliga","link":"https:\/\/ddh1.webhd.ru\/ddh1\/premium415\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/icdb.tv\/images\/a8a882fb16572f8d4c1980b75b27201d.jpg","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Action ","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium420\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcR2agVCKZ31xZv9BBrQMFBrb2nT0vRGKSOJmQ&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Rugby","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium421\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/www.thesportsdb.com\/images\/media\/channel\/tvlogo\/scvqpc1642604954.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Golf","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium422\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTALQi8QergCOEc-eRYRPKRVtmH9YLIWQaH_A&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport Tennis","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium423\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/archive.org\/download\/supersport-tennis\/supersport-tennis.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SuperSport MotorSport","link":"https:\/\/ddy3.webhd.ru\/ddy3\/premium424\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQcUa6MoJan3_tVo0RpF4EKx1Bq9bam2in1uQ&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Sport Tv 1","link":"https:\/\/ddy4.webhd.ru\/ddy4\/premium49\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/38\/Logo_SportTV.svg\/1280px-Logo_SportTV.svg.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Sport Tv 2","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium74\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/38\/Logo_SportTV.svg\/1280px-Logo_SportTV.svg.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Sport Tv 3","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium454\/tracks-v1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/38\/Logo_SportTV.svg\/1280px-Logo_SportTV.svg.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Sport Tv 4","link":"https:\/\/ddh1.webhd.ru\/ddh1\/premium289\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/38\/Logo_SportTV.svg\/1280px-Logo_SportTV.svg.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Astro Super Sports ","link":"https:\/\/ddy4.webhd.ru\/ddy4\/premium123\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/2\/2f\/Astro_ASSP1.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Astro Super Sports 2","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium124\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/4\/4a\/Astro_ASSP2.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"Astro Super Sports 4","link":"https:\/\/ddh2.webhd.ru\/ddh2\/premium126\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/divign0fdw3sv.cloudfront.net\/Images\/ChannelLogo\/contenthub\/241_144.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"beIN Sports En 1","link":"https:\/\/ddy4.webhd.ru\/ddy4\/premium61\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/i.goalzz.com\/?i=o\/h\/1\/213\/bein-sports-english-1.png","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SSC 1","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQwObH_b9tejB-5BP61775aikwzWOdZNCMnGA&usqp=CAU"},
-#EXTINF:-1
 {"name":"SSC 2","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium615\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SSC 3","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium616\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SSC 4","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium617\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SSC 5","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium618\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SSC Extra 1","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium619\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SSC Extra 2","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium620\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"SSC Extra 3","link":"https:\/\/ddy5.webhd.ru\/ddy5\/premium621\/tracks-v1a1\/mono.m3u8","logo":"https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU","referer":"https:\/\/olalivehdplay.ru/","userAgent":"Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"},
-#EXTINF:-1
 {"name":"beIN Sports FR 1","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYqqI7eIm1Q5EnslMr1Fz8SMwAonFNIYVDhA&usqp=CAU"},
-#EXTINF:-1
 {"name":"beIN Sports FR 2","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHx6H0rIHc2LayNXNHgOWfsXwOp39oaXIa3g&usqp=CAU"},
-#EXTINF:-1
 {"name":"beIN Sports FR 3","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8","logo":"https://img.kooora.com/?i=o/h/1/362/bein-sports-french-1.png"},
-#EXTINF:-1
 {"name":"Ziggo Sport Switch","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53700.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJsSzwFwI4FB1bvaEEHnm-5OwsuMpRzXsNig&usqp=CAU"},
-#EXTINF:-1
 {"name":"Ziggo Sport Golf","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53703.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABNXMpALjhnyvMN_FewC37QU6lc4LfBFS6A&usqp=CAU"},
-#EXTINF:-1
 {"name":"Ziggo Sport Voetbal","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53704.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHSRKvBh9Ou7Fi3UY7lBNaXuLKcrjwrtNCg&usqp=CAU"},
-#EXTINF:-1
 {"name":"Ziggo Sport Racing","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53705.m3u8","logo":"https://i.goalzz.com/?i=o/h/1/851/ziggo-sport-racing-1.png"},
-#EXTINF:-1
 {"name":"Ziggo Sport Duco","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53708.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4JmCH1OEo8u4hUf3SzuYFNcgmN3jNuklF9w&usqp=CAU"},
-#EXTINF:-1
 {"name":"Ziggo Sport Tennis","link":"http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8","logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_KGWdWkbwXtk03-Li_89z3DG1YY3-xw7hsA&usqp=CAU"}]
 
 
