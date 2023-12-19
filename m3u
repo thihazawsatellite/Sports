@@ -181,7 +181,7 @@ https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="SPORTS", Sports18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
 
-#EXTINF:-1 tvg-logo="https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQYbuuZQ5zlkKglnLKA1CWhlqbHIeE1EzNaog&usqp=CAU" group-title="SPORTS", Sports18 Khel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYbuuZQ5zlkKglnLKA1CWhlqbHIeE1EzNaog&usqp=CAU" group-title="SPORTS", Sports18 Khel
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_Khel_voot_MOB/Fallback/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpYEe2Z5RfNzmgroT7Xn78q4WiC79FZfW4IA&usqp=CAU" group-title="SPORTS", Arena Sports 1
@@ -229,7 +229,7 @@ https://ddy3.webhd.ru/ddy3/premium591/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy3.webhd.ru/ddy3/premium592/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Sky_Sport_NZ_2019.svg/2560px-Sky_Sport_NZ_2019.svg" group-title="SPORTS", Sky Sports SL NZ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsDPhtO02g8IlwMJBgw4x0t3jHmTKU334KTw&usqp=CAU" group-title="SPORTS", Sky Sports SL NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy3.webhd.ru/ddy3/premium587/tracks-v1a1/mono.m3u8
@@ -271,7 +271,7 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy2.webhd.ru/ddy2/premium2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg\/2560px-DAZN_1_Logo.svg.png" group-title="SPORTS", DAZN 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="SPORTS", DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy4.webhd.ru/ddy4/premium445/tracks-v1a1/mono.m3u8
@@ -301,7 +301,7 @@ https://ddy2.webhd.ru/ddy2/premium877/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy4.webhd.ru/ddy4/premium426/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg\/1200px-DAZN_Logo_Master.svg.pn" group-title="SPORTS", DAZN DE 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg\/1200px-DAZN_Logo_Master.svg.png" group-title="SPORTS", DAZN DE 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy4.webhd.ru/ddy4/premium427/tracks-v1a1/mono.m3u8
@@ -423,7 +423,7 @@ https://ddy4.webhd.ru/ddy4/premium61/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="SPORTS", SSC 1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzbv7IPJ9S7pCLASaulxvkxSx8FCrlIsCVQA&usqp=CAU" group-title="SPORTS", SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
