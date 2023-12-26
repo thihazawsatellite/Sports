@@ -8,15 +8,13 @@ https://scontent.fdac11-2.fna.fbcdn.net/v/t42.1790-2/410288049_375826718176248_4
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy3.webhd.ru/ddy3/premium412/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F3%2Findex.m3u8&token=d70a86efd8024d239b78f6916296cfbdcc65a038&is_vip=false&verify=1703592000-4bimjZLoSiVCDgmfjJyS34nXDH%2BhL0pMR95yT%2FtobHU%3D
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", NAS 🆚 ITT
+http://xtv.ooo:8080/live/1258954/1489433/167590.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", PKL
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", BUR 🆚 LIV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F1%2Findex.m3u8&token=d70a86efd8024d239b78f6916296cfbdcc65a038&is_vip=false&verify=1703592000-4bimjZLoSiVCDgmfjJyS34nXDH%2BhL0pMR95yT%2FtobHU%3D
+#EXTVLCOPT:http-referrer=https://1stream.soccer/
+https://plpl111.fdhgfdha.space/playlist/17684/jcvjcks.cloudcdn5.com/caxi.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
