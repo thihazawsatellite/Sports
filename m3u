@@ -120,7 +120,7 @@ https://ddh2.webhd.ru/ddh2/premium346/tracks-v1a1/mono.m3u8
 https://ddh2.webhd.ru/ddh2/premium598/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="SPORTS", T Sports 
-http://103.141.2.37:25461/live/web/web/588.m3u8
+http://xtv.ooo:8080/live/1258954/1489433/167590.m3u8
 
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="SPORTS", T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
@@ -188,16 +188,16 @@ https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u
 https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png" group-title="SPORTS", Sony Ten 1
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-1-live
+http://xtv.ooo:8080/live/1258954/1489433/167570.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 21667728105.png" group-title="SPORTS", Sony Ten 2
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-2-live
+http://xtv.ooo:8080/live/1258954/1489433/167571.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 31667728117.png" group-title="SPORTS", Sony Ten 3
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-3-live
+http://xtv.ooo:8080/live/1258954/1489433/167572.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 51667728306.png" group-title="SPORTS", Sony Ten 5
-https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-5
+http://xtv.ooo:8080/live/1258954/1489433/167580.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/07/Sports18_official_logo.png" group-title="SPORTS", Sports18
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
