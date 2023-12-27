@@ -103,6 +103,21 @@ https://ddh2.webhd.ru/ddh2/premium370/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy5.webhd.ru/ddy5/premium369/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST-lx5YbVirkaABbbcRHk6aBzgxbFy7SBp1A&usqp=CAU" group-title="SPORTS", FOX 502
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://12.webhd.ru/ddy4/premium820/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtq65TSkmhhrwkxQRaAdzDqjsJBLCbl1v2vQ&usqp=CAU" group-title="SPORTS", FOX 503
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://12.webhd.ru/ddy4/premium821/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwotKlnxxXJfD3lDEMh1jK1Bvryz668ckywQ&usqp=CAU" group-title="SPORTS", FOX 504
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+https://12.webhd.ru/ddy4/premium822/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.dishpromotions.com/wp-content/uploads/WLLOW-logo.png" group-title="SPORTS", Willow Cricket 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
