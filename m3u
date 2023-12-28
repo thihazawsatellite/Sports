@@ -8,10 +8,15 @@ https://scontent.fdac11-2.fna.fbcdn.net/v/t42.1790-2/410288049_375826718176248_4
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy3.webhd.ru/ddy3/premium412/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT",AUS 🆚 PAK
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", IND 🆚 SA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F46%2Findex.m3u8&token=e2a9cf162898d34aacb2aff853d1b38020c595f5&is_vip=false&verify=1703721600-eIXL0ftOBTHAK7NJOVGew6qbJQVEPL6Nei05hsCsTzU%3D
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F46%2Findex.m3u8&token=e2a9cf162898d34aacb2aff853d1b38020c595f5&is_vip=false&verify=1703743200-%2BmiUQjq7ReGkSf2L%2BX6WkjAmeaX6jRHqRF2S0MAafjg%3D
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", BBL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F47%2Findex.m3u8&token=e2a9cf162898d34aacb2aff853d1b38020c595f5&is_vip=false&verify=1703743200-%2BmiUQjq7ReGkSf2L%2BX6WkjAmeaX6jRHqRF2S0MAafjg%3D
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
