@@ -23,6 +23,11 @@ https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2
 #EXTVLCOPT:http-referrer=https://live-streamfootball.com/
 https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn-bp.rumsport.com%2Fstream%2F37%2Findex.fmp4.m3u8&token=e2a9cf162898d34aacb2aff853d1b38020c595f5&is_vip=false&verify=1703937600-fJB5IQYy47WaJCO505T1EfDncfmrTyzWWbOJbpyw72s%3D
 
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", Serie A 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F24%2Findex.m3u8&token=e2a9cf162898d34aacb2aff853d1b38020c595f5&is_vip=false&verify=1703937600-fJB5IQYy47WaJCO505T1EfDncfmrTyzWWbOJbpyw72s%3D
+
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", IND W🆚 AUS W
 https://prod-ent-live-gm.jiocinema.com/hls/live/2100307/hd_akamai_iosmob_avc_eng_womenst20_301223/master.m3u8
 
