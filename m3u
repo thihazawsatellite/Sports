@@ -54,34 +54,6 @@ https://ddy5.webhd.ru/ddy5/premium97/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
 https://ddy5.webhd.ru/ddy5/premium98/tracks-v1a1/mono.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"90e32a4712f5480bab7abc8a4fef25da:2eeb49a8688f2365e1131cf4ae4d6f0a"}
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMybS_h1-hIiu5I-YOl5S4XKg9C7pIN-r0Vg&usqp=CAU" group-title="SPORTS", Ziggo Sports
-https://wp-obc4-live-nl-prod.prod.cdn.dmdsdp.com/dash/go-dash-hdready-avc/NL_000014_019661/manifest.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3fd52d1e9ba4b180aec12c9295b62c0f:bb274e33da0c709e62c55d0cba911889"}
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMybS_h1-hIiu5I-YOl5S4XKg9C7pIN-r0Vg&usqp=CAU" group-title="LIVE EVENT", beIN Sports 1 thailand
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0001/DASH/S0001.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"30c11587a1686b72f115f34b0bf1c383:1e3a6af2408cdd78347b722728560c3b"}
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMybS_h1-hIiu5I-YOl5S4XKg9C7pIN-r0Vg&usqp=CAU" group-title="LIVE EVENT", beIN Sports 2 thailand
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0002/DASH/S0002.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"aa724943787320593f5563048c90032d:a039276254f53769b040199a4eca8c2c"}
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", beIN Sports 3 thailand
-https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/S0003/DASH/S0003.mpd
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk91apgyxFVSA590kfZErzpRHr2e_aoUcl3g&usqp=CAU" group-title="SPORTS", USA Network 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
