@@ -184,19 +184,19 @@ http://xtv.ooo:8080/live/122461/4627451/167578.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167579.m3u8
 
 #EXTINF:-1 tvg-logo="https://cne-eg.com/uploads/logos/20183142627377.png" group-title="SPORTS", Al Kass 1
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1laq2ab/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142948397.png" group-title="SPORTS", Al Kass 2
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2laqcd/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyce/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKIuMa1zJnQSfn_xnagVd-uAIIyrXWTkHyGw&usqp=CAU" group-title="SPORTS", Al Kass 3
-https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavy/master.m3u8
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavya/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cne-eg.com/uploads/logos/20183142520385.png" group-title="SPORTS", Al Kass 4
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh2.smil/playlist.m3u8
+https://liveak.alkassdigital.net/livehttporigin/smil:Alkass4dfghjkjhb.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="SPORTS", Al Kass 5
-https://liveak.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/playlist.m3u8
+https://liveak.alkassdigital.net/livehttporigin/smil:Alkass5a.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 11667728321.png" group-title="SPORTS", Sony Ten 1
 http://xtv.ooo:8080/live/122461/4627451/167570.m3u8
