@@ -93,6 +93,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="SPORTS", Astro Cricket 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT:http-origin=https://olalivehdplay.ru
 https://ddh2.webhd.ru/ddh2/premium370/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU" group-title="SPORTS", FOX Cricket 
@@ -244,6 +245,7 @@ https://12.webhd.ru/esx3/premium65/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsDPhtO02g8IlwMJBgw4x0t3jHmTKU334KTw&usqp=CAU" group-title="SPORTS", Sky Sports 1 NZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
+#EXTVLCOPT:http-origin=https://olalivehdplay.ru
 https://ddy3.webhd.ru/ddy3/premium588/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsDPhtO02g8IlwMJBgw4x0t3jHmTKU334KTw&usqp=CAU" group-title="SPORTS", Sky Sports 2 NZ 
