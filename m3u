@@ -4,19 +4,19 @@
 https://scontent.fcgp32-1.fna.fbcdn.net/v/t42.1790-2/410288049_375826718176248_4571807868345633877_n.mp4?_nc_cat=100&ccb=1-7&_nc_sid=55d0d3&efg=eyJybHIiOjMwMCwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoic3ZlX3NkIn0%3D&_nc_eui2=AeGr_SfTUYRPy6BUoXTxlY6PBIPPBwgdQQcEg88HCB1BB31hZXwVpu-9xm8y5BTuYiJAx4oy0EqO4wjr77w66D1c&_nc_ohc=aAwr4TFSLlIAX9P4TiD&_nc_rml=0&_nc_ht=scontent.fcgp32-1.fna&oh=00_AfAzkbRXjvectJkfBG7FR1qVLCnE-Qze_3z4Dz5xtn59wQ&oe=659E6BA9
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F40%2Findex.m3u8&token=db729754d94c1a24f80ff60edfe60b83e719a5fd&is_vip=false&verify=1704564000-A%2FH1%2BCvGg1IFUxiG02unXHihfF7Vb6qUGkNNyMCHWJ0%3D
+https://dai.google.com/ssai/event/-8ZdRZfGTvG731m1OlXeIg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F20%2Findex.m3u8&token=782c6e1a5f7e478cdc3046800af893d23d7d0f73&is_vip=false&verify=1704564000-hvz%2BJvwWnm9Mqav%2BN7ZPNlxzCDQOt%2F7IOz1ad2IRbI4%3D
+https://dai.google.com/ssai/event/ARSsLLOjSl2bsGjkQB2UAw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F24%2Findex.m3u8&token=db729754d94c1a24f80ff60edfe60b83e719a5fd&is_vip=false&verify=1704564000-A%2FH1%2BCvGg1IFUxiG02unXHihfF7Vb6qUGkNNyMCHWJ0%3D
+https://dai.google.com/ssai/event/biQJgf06SJCitj-nd502ow/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", LIVE
+https://dai.google.com/ssai/event/8cov9tHQRj26xm-Qz6uWzQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", LIVE
+https://dai.google.com/ssai/event/SU7iSpwoS3yf6HkUne_Vhg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png" group-title="LIVE EVENT", LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
